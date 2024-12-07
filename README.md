@@ -1,13 +1,15 @@
 ## **Deep Learning Workshop 1: Neural Network Implementation**
 
-This project is part of a practical deep learning workshop, aimed at building, training, and evaluating neural networks for  
-**multi-class image classification** tasks. The primary goal is to understand the core operations of neural networks,  
-including **forward propagation**, **backpropagation**, and **optimization**, while applying these techniques to real-world datasets. 
+This project is part of a practical deep learning workshop, focusing on the design, training, and evaluation of neural networks for  
+**multi-class image classification**. The primary goal is to develop a strong understanding of core neural network operations,  
+including **forward propagation**, **backpropagation**, and **optimization**, while applying these techniques to real-world datasets.
 
-The task focuses on classifying bird species into one of **525 categories** using the **BIRDS 525 SPECIES** dataset.  
-
+The task focuses on classifying bird species into one of **525 categories** using the **BIRDS 525 SPECIES** dataset.    
 This project offers hands-on experience with essential deep learning workflows, such as **data preprocessing**, **model architecture design**,  
 **K-Fold cross-validation**, and **performance optimization**.
+
+
+
 
 &nbsp;  
 ### **Key Objectives**
