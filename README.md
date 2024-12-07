@@ -1,6 +1,6 @@
 ## **Deep Learning Workshop 1: Neural Network Implementation**
 
-This project is part of a practical deep learning workshop, focusing on the design, training, and evaluation of neural networks for  **multi-class image classification**. 
+This project is part of a practical deep learning workshop, focusing on the design, training, and evaluation of neural networks for  **multi-class image classification**.   
 The primary goal is to develop a strong understanding of core neural network operations,  
 including **forward propagation**, **backpropagation**, and **optimization**, while applying these techniques to real-world datasets.
 
